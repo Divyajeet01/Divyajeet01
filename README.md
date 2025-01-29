@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyajeet
 - 🌱current a student of Btech CSE
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Machine Learing & AI
 - 📫 How to reach me ...divyajeetbiswal@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Your brain is constantly eating itself.
