@@ -37,9 +37,9 @@ Here are some of the projects I've been working on. You can find more on my repo
 
 ### 🏆 Achievements
 
--🥇 1st Position – XETA Startup Test
--⭐ 5★ Python & 4★ Java – HackerRank
--🎉 Finalist – MUJ 2.0 Hackathon
+- 🥇 1st Position – XETA Startup Test
+- ⭐ 5★ Python & 4★ Java – HackerRank
+- 🎉 Finalist – MUJ 2.0 Hackathon
 
 ### 📫 How to Reach Me
 
