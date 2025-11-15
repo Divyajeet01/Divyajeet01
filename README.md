@@ -4,10 +4,10 @@ I'm an AI/ML developer passionate about building intelligent, practical, and use
 
 ### 🚀 What I'm Currently Focused On
 
-🌱 Learning: Advancing my skills in Deep Learning, Feature Engineering, and NLP.
-💡 Research & Building: Working on applied ML projects—from audio-based depression detection to intelligent desktop assistants.
-🤝 Collaborating: Open to contributing to AI, ML, or backend-focused open-source projects.
-🔭 Developing: Improving and maintaining the projects listed below.
+- 🌱 Learning: Advancing my skills in Deep Learning, Feature Engineering, and NLP.
+- 💡 Research & Building: Working on applied ML projects—from audio-based depression detection to intelligent desktop assistants.
+- 🤝 Collaborating: Open to contributing to AI, ML, or backend-focused open-source projects.
+- 🔭 Developing: Improving and maintaining the projects listed below.
 
 ### 🛠️ My Tech Stack
 
