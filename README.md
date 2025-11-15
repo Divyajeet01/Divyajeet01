@@ -43,6 +43,6 @@ Here are some of the projects I've been working on. You can find more on my repo
 
 ### 📫 How to Reach Me
 
-Email: divyajeetbiswal01@gmail.com
-GitHub: https://github.com/Divyajeet01
-LeetCode: https://leetcode.com/u/divyajeetbiswal
+- Email: divyajeetbiswal01@gmail.com
+- GitHub: https://github.com/Divyajeet01
+- LeetCode: https://leetcode.com/u/divyajeetbiswal
