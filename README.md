@@ -34,7 +34,7 @@ Here are some of the projects I've been working on. You can find more on my repo
 | **EEG Analysis**     | ML pipeline for classifying brainwave patterns with **96% accuracy** for cognitive research.                                                          |
 | **Audio-Based Depression Detection** | Created an ML system processing 400+ long-duration therapeutic audio files using Librosa & OpenSMILE, achieving 80% accuracy.         |
 | **Smart Stretcher (IoT + Sensors)**  | Human-following IoT medical stretcher reducing patient transport time by **37%** in prototype testing.                                |
-|**Uni Trainer**       | A high-performance PyQt5 desktop app for no-code AI training. It features a unified GUI to easily train SOTA models like Neural-Network YOLO, RT-DETR, SAM, and Gradient Boosting. |
+|**Uni Trainer**       | A high-performance PyQt5 desktop app for no-code AI training. It features a unified GUI to easily train SOTA models like Neural-Network, YOLO, RT-DETR, SAM, and Gradient Boosting. |
 
 ### 🏆 Achievements
 
