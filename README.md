@@ -20,7 +20,7 @@ Here are some of the technologies I'm proficient in:
 | **Frameworks & Libraries**    | TensorFlow, Keras, PyTorch, Scikit-learn, Boosting Algorithms |
 |                               | Pandas, NumPy, Matplotlib, Seaborn                            |
 | **Databases**                 | PostgreSQL, PostgreSQL                                        |
-| **Tools**                     | Jupyter Notebook, Jira, Confluence                            |
+| **Tools**                     | Jupyter Notebook, MCP                                         |
 | **Backend & Development**     | FastAPI, Streamlit, Docker, Git, Hugging Face, Ollama         |  
 
 
